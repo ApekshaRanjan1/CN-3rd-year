@@ -7,7 +7,7 @@ dig google.com any
 
 
 ## ping
-sends and recieves data over a network
+sends and recieves data over a network, Tests connectivity between the host and another host
 
 ```bash
 ping
@@ -16,7 +16,7 @@ ping -c 10 www.google.com
 
 
 ## traceroute
-used to find network path from machine to server
+used to find network path from machine to server, Traces the route packets take from one host to another. Displays each hop along the path
 ```bash
 traceroute -m 10 www.google.com
 ```
@@ -35,7 +35,7 @@ nslookup
 ```
 
 ## netstat
-prints network connections,routing tables, etc. used for finding problems in n/w and determining the amt of traffic
+prints network connections,routing tables, etc. used for finding problems in n/w and determining the amt of traffic, displays network stats and connections
 ```bash
 netstat
 ```
@@ -56,7 +56,7 @@ ifconfig
 
 
 ## ip 
-similar to ifconfig but more pawarful
+similar to ifconfig but more powerful, info about state of network interfaces and their associated IP addresses.
 ```bash
 ip addr show
 ```
