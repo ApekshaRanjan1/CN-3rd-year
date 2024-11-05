@@ -49,7 +49,7 @@ host google.com
 
 
 ## ifconfig
-used to configure the systems kernel-resident n/w, used during boot time to setup interfaces, debugging, system tuning, displays status of systems interfaces
+used to configure the systems kernel-resident n/w, used during boot time to setup interfaces, debugging, system tuning, displays status of systems interfaces.used to view the current configuration of network interfaces, including IP addresses and MAC addresses.
 ```bash
 ifconfig
 ```
