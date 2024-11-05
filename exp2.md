@@ -12,9 +12,7 @@ Common types include bus, star, ring, and mesh topologies.
     
     It is a multi-point connection and a non-robust topology because if the backbone fails the topology crashes.
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d7f0c0b2-fffe-40d0-9b6d-cae3b360ff45/21e0c4f4-8314-480c-9c27-db9d52e59824/image.png)
-    
-    Bus topology is familiar technology as installation and troubleshooting techniques are well known.
+    Bus topology is a familiar technology as installation and troubleshooting techniques are well known.
     
     A common example of bus topology is the Ethernet LAN, where all devices are connected to a single coaxial cable or twisted pair cable. This topology is also used in cable television networks.
     
@@ -52,7 +50,6 @@ Common types include bus, star, ring, and mesh topologies.
     
     In Star Topology, every node on the network is connected through a single central hub.
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d7f0c0b2-fffe-40d0-9b6d-cae3b360ff45/be10d6b8-b5aa-49b9-9c0e-b3df83a8d89d/image.png)
     
     The hub can be passive, meaning it is not an intelligent hub, like broadcasting devices. Alternatively, the hub can be intelligent, known as an active hub. Active hubs contain repeaters.
     
@@ -88,7 +85,6 @@ Common types include bus, star, ring, and mesh topologies.
     
     Hybrid Topology is used when the nodes are free to take any form. It means these can be individuals such as Ring or Star topology or can be a combination of various types of topologies.
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d7f0c0b2-fffe-40d0-9b6d-cae3b360ff45/df6c9075-adb8-44c1-a818-9f6b0be49aaf/image.png)
     
 - Advantages
     - This topology is **very flexible**.
