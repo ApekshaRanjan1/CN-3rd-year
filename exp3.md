@@ -18,6 +18,7 @@ FTP operates on a **client-server model**, where both the client and server need
 
 
 The input lines extracted from the code within lab manual are given below
+-------------------------
 <details>
   <summary>The Lab Manual Whole Code</summary>
   
@@ -134,6 +135,7 @@ The input lines extracted from the code within lab manual are given below
   221 Goodbye.
   ```
 </details>
+--------------------------------------
 
 1. FTP Server Installation
 
